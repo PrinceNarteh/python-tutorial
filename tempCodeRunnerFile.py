@@ -1,0 +1,2 @@
+greet("Prince")
+# greet("Emmanuel")
